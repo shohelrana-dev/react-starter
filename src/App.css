@@ -1,0 +1,17 @@
+:root {
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+}
